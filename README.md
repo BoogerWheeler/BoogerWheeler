@@ -29,9 +29,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://imgur.com/a/FOxlh5k"  />
-</div>
+<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/quEsMOrr3hmQ8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/matrix-awesome-gifs-gif-quEsMOrr3hmQ8">via GIPHY</a></p>
 
 ###
 
