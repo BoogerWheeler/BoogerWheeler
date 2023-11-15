@@ -1,4 +1,4 @@
-<h2 align="left">Ola, meu nome é Odion e sou estudando de CyberSec e de Techologia.</h2>
+<h2 align="left">Olá, meu nome é Odilon e sou estudante de CyberSec e de Techologia.</h2>
 
 ###
 
